@@ -1,6 +1,6 @@
 ## Project Introduction
 
-**PIMOD** (Population to Individual Mood Decoder) is a toolkit for processing, analyzing, and modeling intracranial EEG (iEEG) data, with a focus on decoding mood states from neural signals. 
+**PIMOD** (Population to Individual Mood Decoder) is an open-source toolkit designed for processing, analyzing, and modeling intracranial EEG (iEEG) data, with a primary focus on decoding mood states from neural signals in real time. Code repository accompanying the manuscript"PIMOD: A Two-Step Deep-Learning Framework for Real-Time Mood Decoding and Personalized Neurostimulation Response Prediction". For technical inquiries, feedback, or collaboration requests, please contact us via email at Mic2462533841@outlook.com.
 
 ## Project Structure
 
